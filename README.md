@@ -1,5 +1,4 @@
 # eye-disease-detection-cnn
-eye-disease-detection-cnn
 
 # Eye Disease Detection using Deep Learning
 
